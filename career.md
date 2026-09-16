@@ -29,7 +29,12 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 2 | Viettel Software | Hà Nội: 36A Dịch Vọng Hậu, Phường Cầu Giấy (quận Cầu Giấy cũ) | https://www.topcv.vn/viec-lam/delivery-manager/2183442.html?ta_source=JobSearchList_LinkDetail&u_sr_id=m4V8LbE84OQH2wtfqmZglUAv9lQs5yivOOIjYcpc_1789545202 | 16/9/2026 |
 | 3 | Tập Đoàn FPT | Hà Nội: FPT Tower, số 10 Phạm Văn Bạch, Phường Cầu Giấy (quận Cầu Giấy cũ) | https://www.topcv.vn/viec-lam/project-manager/2296963.html?ta_source=JobSearchList_LinkDetail&u_sr_id=m4V8LbE84OQH2wtfqmZglUAv9lQs5yivOOIjYcpc_1789545202 | 16/9/2026 |
 
-Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
+Ảnh chụp màn hình ba tin lưu trong thư mục.
+<table>
+  <img src="/anh_1.jpg" width="100%"> <br>
+  <img src="/anh_2.jpg" width="100%"> <br>
+  <img src="/anh_3.jpg" width="100%"> <br>
+</table>
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
