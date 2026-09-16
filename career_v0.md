@@ -16,18 +16,18 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+| Kiến thức | - Tốt nghiệp Đại học chuyên ngành Kinh tế, Ngoại thương, Tài chính ngân hàng, Công nghệ thông tin, Thương mại điện tử,....<br>- Có kỹ năng nghe/nói/đọc/viết tài liệu kỹ thuật bằng tiếng Anh.<br> - Có tối thiểu 02 năm kinh nghiệm trong vị trí Quản lý dự án hoặc tương đương trong lĩnh vực phát triển sản phẩm công nghệ.| - Tốt nghiệp Đại học chuyên ngành CNTT hoặc các ngành liên quan. <br> Ưu tiên ứng viên có hiểu biết vững về 1 trong những lĩnh vực sau: ERP/phần mềm phân phối bán lẻ/Viễn thông/Tài chính/Fintech. | - Tốt nghiệp Đại học trở lên các chuyên ngành CNTT, Khoa học máy tính, Kỹ thuật, Quản trị dự án hoặc các ngành liên quan. <br> - Có tối thiểu 03 năm kinh nghiệm quản lý dự án công nghệ, R&D, phần mềm hoặc các dự án có yếu tố kỹ thuật phức tạp. <br> | một phần |
+| Kỹ năng | - Kỹ năng nghiên cứu, phân tích, tư duy logic và tổng hợp thông tin; khả năng xử lý vấn đề nhanh. <br> - Kỹ năng quản lý nhóm, điều phối công việc và lập kế hoạch. <br> - Kỹ năng giao tiếp, đàm phán và thuyết trình tốt; có khả năng truyền đạt rõ ràng với nhiều đối tượng (cấp trên, đội dự án, các bên liên quan). <br> - Có kỹ năng làm việc nhóm hoặc độc lập. <br> - Kỹ năng quan sát, quản lý thời gian và khả năng thích nghi cao trong môi trường nhiều dự án song song. | - Có khả năng xây dựng kế hoạch quản lý nhân viên để đảm bảo các mục tiêu Trung tâm phần mềm.<br> - Có kinh nghiệm tham gia lập trình và hỗ trợ đội phát triển (DEV) trong các dự án quy mô 15 - 20 người. <br> - Giao tiếp tốt và xây dựng mối quan hệ với khách hàng và các bộ phận trong công ty. | - Hiểu biết về một hoặc nhiều lĩnh vực AI, Data, Cyber Security, Quantum, Robotics hoặc công nghệ mới là lợi thế. <br> - Có khả năng lập kế hoạch, quản lý tiến độ, nguồn lực, ngân sách, rủi ro và chất lượng dự án. <br> - Kỹ năng giao tiếp, trình bày, quản lý stakeholder và làm việc với đối tác tốt. <br> - Sử dụng tốt tiếng Anh trong công việc và đọc hiểu tài liệu chuyên ngành.| một phần |
+| Thái độ | - Chủ động, có tinh thần trách nhiệm và chịu được áp lực công việc. | không có đề cập đến| không đề cập đến | một phần |
+| Công cụ | - Sử dụng thành thạo các phần mềm MS Office (Word, Excel, PowerPoint, Outlook). <br> - Sử dụng thành thạo Jira trong quản lý dự án (tạo project và quản lý backlog, sprint, workflow, dashboard, báo cáo). <br> - Có khả năng sử dụng tốt các công cụ AI (ChatGPT, Claude, Gemini hoặc tương đương) để hỗ trợ công việc: tổng hợp thông tin, soạn thảo tài liệu, phân tích dữ liệu, tự động hóa các tác vụ lặp trong quản lý dự án. <br> - Sử dụng thành thạo Jira trong quản lý dự án (tạo project và quản lý backlog, sprint, workflow, dashboard, báo cáo). | Kinh nghiệm sử dụng và quản lý các công cụ quản trị như Jira, Excel, và Trello. | -  Có kinh nghiệm sử dụng các phương pháp quản lý dự án như Agile/Scrum, Waterfall hoặc Hybrid. <br> - Agile, AI, Data, Waterfall, Robotics, cyber security, Quantum, SCRUM, hybrid. | một phần |
 
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 | VN Pay | Hà Nội: 32 Huỳnh Thúc Kháng, Phường Láng (quận Đống Đa cũ) | https://www.topcv.vn/viec-lam/nhan-vien-quan-tri-du-an/2301042.html?ta_source=JobSearchList_LinkDetail&u_sr_id=m4V8LbE84OQH2wtfqmZglUAv9lQs5yivOOIjYcpc_1789545202 | 16/9/2026 |
+| 2 | Viettel Software | Hà Nội: 36A Dịch Vọng Hậu, Phường Cầu Giấy (quận Cầu Giấy cũ) | https://www.topcv.vn/viec-lam/delivery-manager/2183442.html?ta_source=JobSearchList_LinkDetail&u_sr_id=m4V8LbE84OQH2wtfqmZglUAv9lQs5yivOOIjYcpc_1789545202 | 16/9/2026 |
+| 3 | Tập Đoàn FPT | Hà Nội: FPT Tower, số 10 Phạm Văn Bạch, Phường Cầu Giấy (quận Cầu Giấy cũ) | https://www.topcv.vn/viec-lam/project-manager/2296963.html?ta_source=JobSearchList_LinkDetail&u_sr_id=m4V8LbE84OQH2wtfqmZglUAv9lQs5yivOOIjYcpc_1789545202 | 16/9/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
