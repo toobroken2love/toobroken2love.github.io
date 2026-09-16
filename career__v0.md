@@ -9,28 +9,17 @@ title: Chân dung nghề của tôi
 
 ## Hướng tôi nhắm
 
-…
+chuyên viên nghiên cứu và phát triển
 
-Vì sao: …
-
-## Bảng năng lực rút từ ba tin tuyển dụng
-
-Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Không suy đoán.
-
-| Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
-|---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+Vì sao: tôi thích đi tìm hiểu mọi thứ tôi không thích sự cứng nhắc trong tất cả vấn đề. bản thân tôi là một người kahs thích sự tự do nên khi đi nghiên cứu tìm hiểu này kia cảm giác bản thân mình được sống trong sự tự do
 
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 | VN Pay | Hà Nội: 32 Huỳnh Thúc Kháng, Phường Láng (quận Đống Đa cũ) | https://www.topcv.vn/viec-lam/nhan-vien-quan-tri-du-an/2301042.html?ta_source=JobSearchList_LinkDetail&u_sr_id=m4V8LbE84OQH2wtfqmZglUAv9lQs5yivOOIjYcpc_1789545202 | 16/9/2026 |
+| 2 | Viettel Software | Hà Nội: 36A Dịch Vọng Hậu, Phường Cầu Giấy (quận Cầu Giấy cũ) | https://www.topcv.vn/viec-lam/delivery-manager/2183442.html?ta_source=JobSearchList_LinkDetail&u_sr_id=m4V8LbE84OQH2wtfqmZglUAv9lQs5yivOOIjYcpc_1789545202 | 16/9/2026 |
+| 3 | Tập Đoàn FPT | Hà Nội: FPT Tower, số 10 Phạm Văn Bạch, Phường Cầu Giấy (quận Cầu Giấy cũ) | https://www.topcv.vn/viec-lam/project-manager/2296963.html?ta_source=JobSearchList_LinkDetail&u_sr_id=m4V8LbE84OQH2wtfqmZglUAv9lQs5yivOOIjYcpc_1789545202 | 16/9/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
