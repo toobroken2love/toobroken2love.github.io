@@ -85,4 +85,4 @@ Cụ thể tới mức tháng sau kiểm được.
 | **Học** | để AI làm vai trò sparring trả lời tình huống trên. với role luật sư thì AI đã dưa ra rất nhiều luận điểm để bảo vệ công ty, rất nhiều lập luận rất sắt đá để bảo vệ bảo vệ công ty nhưng có 1 lớn ở đây là kể cả cong ty và luật sư chưa không nói về việc thu thập nhằm mục đích gì, trong khi bên role người dùng thì AI cũng đã phản pháo khá gắt gỏng và không muốn chấp nhận 1 xíu nào. dù vậy thì phía luật sư cũng đã cảnh báo công ty về nguy hiểm pháp lý với chuyên môn của bản thân. và quyết định cuối cùng là không thực hiện yêu cầu của cấp trên ( như trong bản v0 đã nêu từ trước ) |
 | **Hành** | đã chọn code html của AI đã đưa ra và tự tối ưu hoá nó theo cách của bản thân ở H1, sửa lỗi bảng ASK của AI ở H2 mắc phải, giữu nguyên văn và câu nói của role luật sư và người sử dụng của AI và quan trọng nhất là giwux nguyên quan điểm không làm theo yêu cầu của cấp trên ở H3 và làm chp quan điểm này mạch lạc và hoàn thiện hơn và 3 mục tiêu cần làm của học kỳ này ở H4 là em tham khảo của bạn Nuyễn Tùng Dương |
 
-Công cụ đã dùng: gemini flash-lite 
+Công cụ đã dùng: gemini flash-lite
