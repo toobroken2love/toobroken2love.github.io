@@ -54,7 +54,15 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: Việc thu thập dữ liệu vị trí người dùng mà không cập nhật vào chính sách riêng tư (Privacy Policy) trước khi triển khai là hành vi vi phạm nghiêm trọng các quy định pháp lý về bảo vệ dữ liệu cá nhân (như GDPR, CCPA hoặc các luật an ninh mạng hiện hành). Điều này có thể đẩy công ty đối mặt với các án phạt tài chính khổng lồ, các vụ kiện tụng từ phía người dùng và làm tổn hại vĩnh viễn đến uy tín thương hiệu. Do đó, cần phải hoãn tính năng này lại hoặc lập tức cập nhật chính sách công khai trước khi đưa vào hoạt động.
+- Phía luật sư công ty lập luận rằng: Các luận điểm bảo vệ quyết định của công ty <br>
+Luận điểm 1: Quyền tự quyết chiến lược kinh doanh khẩn cấp
+Việc thu thập dữ liệu vị trí là tối quan trọng để đảm bảo tính liên tục của dịch vụ và tối ưu hóa trải nghiệm người dùng ngay lập tức, vượt qua các thủ tục hành chính dài dòng. <br>
+Luận điểm 2: Giới hạn tác động pháp lý ngắn hạn
+Trong giai đoạn đầu triển khai trước hạn chót ngày mai, quy mô thu thập còn nhỏ và dữ liệu được mã hóa nội bộ, chưa gây ra thiệt hại hữu hình hay khiếu kiện thực tế từ phía người dùng. <br>
+Luận điểm 3: Cơ chế cập nhật chính sách linh hoạt sau
+Chính sách riêng tư là văn bản có thể được tu chỉnh định kỳ; công ty hoàn toàn có thể tiến hành thông báo bổ sung và cập nhật điều khoản bảo mật sau khi tính năng đã vận hành ổn định. <br>
+**Lưu ý pháp lý chuyên môn từ Luật sư:**
+*Việc triển khai thu thập dữ liệu người dùng mà hoàn toàn không khai báo trong chính sách riêng tư là hành vi rủi ro cao và vi phạm nghiêm trọng các tiêu chuẩn bảo mật quốc tế cũng như luật bảo vệ dữ liệu cá nhân hiện hành. Dù đưa ra các lập luận trên để đối phó với sức ép tiến độ trước ngày mai, công ty đối mặt với nguy cơ án phạt tài chính rất nặng, mất uy tín thương hiệu và các vụ kiện tập thể ngay khi cơ quan quản lý hoặc người dùng phát hiện. Cách xử lý an toàn nhất vẫn là hoãn tính năng hoặc công bố bản cập nhật chính sách riêng tư tối thiểu trước khi thu thập.*
 - Phía người dùng lập luận rằng: Quyền riêng tư là quyền cơ bản và bất khả xâm phạm. Người dùng có quyền được biết rõ những dữ liệu cá nhân nhạy cảm nào của họ đang bị thu thập, ai là người quản lý và chúng được dùng vào mục đích gì. Việc công ty âm thầm theo dõi và thu thập vị trí địa lý của họ mà không có sự đồng thuận minh bạch (informed consent) là hành vi xâm phạm đời tư trái phép, lừa dối khách hàng và làm mất đi hoàn toàn niềm tin vào sản phẩm.
 - **Quyết định của tôi**, và vì sao:
 - Quyết định: Từ chối triển khai thu thập vị trí vào ngày mai nếu chính sách riêng tư chưa được cập nhật công khai và minh bạch.
@@ -72,9 +80,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | hỏi AI về cách add file ảnh vào hỏi 4 lần. lần 1 hỏi cách để add ảnh vào nhưng là add thành file lớn không phải file lẻ lần 2 e hỏi cách để chèn ảnh vào code và được trả kết quả đầu tiên là ! [ Ảnh chụp màn hình tin tuyển dụng ].( anh_1.jpg ) tất cả đều dính liền lại và khong có dấu chấm giữ anh_1 với cụm từ đằng trước thì code sẽ thật sự chạy e đánh cach ra để nó có thể hiện trong phần preview. nhưng em chưa thấy hài lòng với nó vì đây là code cho 1 ảnh và e phải làm thêm 2 lần như vậy nữa nên e đã hỏi lần thứ 3 với câu hỏi muốn gộp nó lại để có thể add 3 ảnh vào chỉ bằng 1 code và AI trả kết quả 1 code html và em không đánh giống nó hoàn toàn mà em đã dùng nhưunxg kiến thức đã học ở lớp 12 và còn nhớ sửa lại 1 chút vì có lỗi hiển thị khi tìm nguồn ảnh và gần như không hỏi AI ở khúc cuối này vì em không muốn phụ thuộc quá nhiều vào nó và bản thân em cảm giác em nhớ em làm được. |
+| **Hoài** | nhờ AI với vai trò là generator để tạo bảng ASK như đề bài yêu cầu. sau đó truy cập lại từng bài tuyển dụng đọc và lọc ra tất cả các ý nào thật sự có trong tuyển dụng và cái nào không hề tồn tại trong đấy hoặc là AI đã sai. sau đó thì ghi nhận lại và ghi ở trên |
+| **Học** | để AI làm vai trò sparring trả lời tình huống trên. với role luật sư thì AI đã dưa ra rất nhiều luận điểm để bảo vệ công ty, rất nhiều lập luận rất sắt đá để bảo vệ bảo vệ công ty nhưng có 1 lớn ở đây là kể cả cong ty và luật sư chưa không nói về việc thu thập nhằm mục đích gì, trong khi bên role người dùng thì AI cũng đã phản pháo khá gắt gỏng và không muốn chấp nhận 1 xíu nào. dù vậy thì phía luật sư cũng đã cảnh báo công ty về nguy hiểm pháp lý với chuyên môn của bản thân. và quyết định cuối cùng là không thực hiện yêu cầu của cấp trên ( như trong bản v0 đã nêu từ trước ) |
+| **Hành** | đã chọn code html của AI đã đưa ra và tự tối ưu hoá nó theo cách của bản thân ở H1, sửa lỗi bảng ASK của AI ở H2 mắc phải, giữu nguyên văn và câu nói của role luật sư và người sử dụng của AI và quan trọng nhất là giwux nguyên quan điểm không làm theo yêu cầu của cấp trên ở H3 và làm chp quan điểm này mạch lạc và hoàn thiện hơn và 3 mục tiêu cần làm của học kỳ này ở H4 là em tham khảo của bạn Nuyễn Tùng Dương |
 
 Công cụ đã dùng: gemini flash-lite 
