@@ -49,15 +49,17 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: Việc thu thập dữ liệu vị trí người dùng mà không cập nhật vào chính sách riêng tư (Privacy Policy) trước khi triển khai là hành vi vi phạm nghiêm trọng các quy định pháp lý về bảo vệ dữ liệu cá nhân (như GDPR, CCPA hoặc các luật an ninh mạng hiện hành). Điều này có thể đẩy công ty đối mặt với các án phạt tài chính khổng lồ, các vụ kiện tụng từ phía người dùng và làm tổn hại vĩnh viễn đến uy tín thương hiệu. Do đó, cần phải hoãn tính năng này lại hoặc lập tức cập nhật chính sách công khai trước khi đưa vào hoạt động.
+- Phía người dùng lập luận rằng: Quyền riêng tư là quyền cơ bản và bất khả xâm phạm. Người dùng có quyền được biết rõ những dữ liệu cá nhân nhạy cảm nào của họ đang bị thu thập, ai là người quản lý và chúng được dùng vào mục đích gì. Việc công ty âm thầm theo dõi và thu thập vị trí địa lý của họ mà không có sự đồng thuận minh bạch (informed consent) là hành vi xâm phạm đời tư trái phép, lừa dối khách hàng và làm mất đi hoàn toàn niềm tin vào sản phẩm.
+- **Quyết định của tôi**, và vì sao:
+- Quyết định: Từ chối triển khai thu thập vị trí vào ngày mai nếu chính sách riêng tư chưa được cập nhật công khai và minh bạch.
+- Vì sao: Áp lực tiến độ hay deadline kinh doanh không bao giờ là cái cớ để đánh đổi tính hợp pháp và đạo đức kinh doanh. Vi phạm lòng tin của khách hàng bằng cách thu thập dữ liệu ngầm sẽ để lại hậu quả dài hạn tồi tệ hơn rất nhiều so với việc chậm trễ ra mắt tính năng vài ngày. Tôi sẽ chọn cách hoãn lịch phát hành tính năng lại một thời gian ngắn để vừa hoàn thiện thủ tục pháp lý, vừa minh bạch hóa thông tin với người dùng, giữ vững uy tín và sự phát triển bền vững cho công ty.
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Đi hết cả 4 hướng nghề nhằm chọn ra hướng đi phù hợp nhất cho bản thân
+2. Hiểu rõ và thực hiện những nhiệm vụ cần thiết cho hướng nghề mà bản thân đã lựa chọn
+3. Nghiêm túc học tập, phát triển kiến thức và năng lực của bản thân đối cho nhóm nghề, chuẩn bị cho học kì sau và khi ra trường
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -70,4 +72,4 @@ Cụ thể tới mức tháng sau kiểm được.
 | **Học** | … |
 | **Hành** | … |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: gemini flash-lite 
