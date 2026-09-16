@@ -31,9 +31,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Ảnh chụp màn hình ba tin lưu trong thư mục.
 <table>
-  <img src="/anh_1.jpg" width="100%"> <br>
-  <img src="/anh_2.jpg" width="100%"> <br>
-  <img src="/anh_3.jpg" width="100%"> <br>
+  <img src="img/anh_1.jpg" width="100%"> <br>
+  <img src="img/anh_2.jpg" width="100%"> <br>
+  <img src="img/anh_3.jpg" width="100%"> <br>
 </table>
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
