@@ -4,14 +4,11 @@ title: Chân dung nghề của tôi
 
 # Chân dung nghề của tôi
 
-> **Bài 1 · Xoá dòng này khi nộp.** Mọi chỗ có dấu … là chỗ em điền.
-> Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
-
 ## Hướng tôi nhắm
 
-…
+chuyên viên nghiên cứu và phát 
 
-Vì sao: …
+Tôi hiếm khi hài lòng với câu trả lời 'mọi thứ vốn dĩ là vậy' mà luôn muốn tìm cách tối ưu để làm cho chúng tốt hơn. Với tôi, R&D không chỉ là những con số hay các bản báo cáo khô khan, mà là một hành trình liên tục thử nghiệm, học hỏi và dám chấp nhận sai sót để tìm ra câu trả lời cuối cùng. Hơn thế nữa, công việc này cho tôi cơ hội được gắn kết với những người đồng nghiệp sáng tạo, cùng nhau 'bão não' để biến một ý tưởng dù là điên rồ nhất trên giấy thành những giải pháp thực tế, mang lại tác động tích cực cho mọi người.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
