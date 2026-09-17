@@ -42,7 +42,7 @@ title: Bản đồ học tập bốn năm
 | 7 | … | … | … |
 | 8 | … | … | … |
 
-**Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
+**Tổng cộng: 150 tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
 
 ## Vì sao tôi xếp như vậy
