@@ -4,12 +4,9 @@ title: Bản đồ học tập bốn năm
 
 # Bản đồ học tập bốn năm
 
-> **Bài 2 · Xoá dòng này khi nộp.**
-> Tự xếp trước bằng tay, chưa mở AI. Xếp xong mới đưa cho nó phản biện.
-
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 
-…
+chuyên viên nghiên cứu và phát triển
 
 ## Tám học kỳ
 
@@ -42,7 +39,7 @@ title: Bản đồ học tập bốn năm
 | 7 | … | … | … |
 | 8 | … | … | … |
 
-**Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
+**Tổng cộng: 150 tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
 
 ## Vì sao tôi xếp như vậy
@@ -55,15 +52,15 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 **Chỗ thứ nhất**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: PHI101 -- Triết học Mác - Lênin, 
+- Bảng chương trình đào tạo thật ra ghi: POS104 -- Triết học Mác-Lênin
+- Tôi sửa thành: POS104 -- Triết học Mác-Lênin
 
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: 
+- Bảng chương trình đào tạo thật ra ghi: 
+- Tôi sửa thành: 
 
 ## Tôi đã làm việc với AI thế nào
 
