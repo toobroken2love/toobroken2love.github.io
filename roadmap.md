@@ -15,7 +15,7 @@ chuyên viên nghiên cứu và phát triển
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
 | 1 | POS104 <br> COS673 <br> MAT101  <br> MAT118 <br> ENC120 <br> SKL115 | Triết học Mac-Lênin <br> Nhập môn ngành Khoa học máy tính <br> Đại số tuyến tính <br> Giải tích <br> Anh Ngữ 1 <br> Tư duy thiết kế dự án | 3 <br> 3 <br> 3 <br> 3 <br> 3 <br> 3 |
-| 2 | POS105 <br> POS106 <br> MAT104 <br> MAT105 <br> ENC121 <br> SKL116  | Kinh tế chính trị Mác - Lênin <br> Chủ nghĩa xã hội khoa học <br> Toán rời rạc <br> Xác suất thống kê <br> Anh ngữ 2 <br> Đổi mới sáng tạo và tư duy khởi nghiệp | 2 <br> 2 <br> 3 <br> 3 <br> 3 <br> 3 |
+| 2 | POS105 <br> POS106 <br> MAT104 <br> MAT105 <br> ENC121 <br> SKL116 <br> LAW106 | Kinh tế chính trị Mác - Lênin <br> Chủ nghĩa xã hội khoa học <br> Toán rời rạc <br> Xác suất thống kê <br> Anh ngữ 2 <br> Đổi mới sáng tạo và tư duy khởi nghiệp <br> Pháp luật đại cương | 2 <br> 2 <br> 3 <br> 3 <br> 3 <br> 3 <br> 3 |
 
 ### Năm hai
 
@@ -29,13 +29,13 @@ chuyên viên nghiên cứu và phát triển
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
 | 5 | CS301 <br> CS302 <br> CS303 <br> CS304 <br> CS305  | Trí tuệ nhân tạo (AI) <br>Học máy & Khai phá dữ liệu <br> Điện toán đám mây & Hệ thống phân tán <br> Học sâu & Xử lý ngôn ngữ tự nhiên <br> An toàn và bảo mật thông tin  | 3 <br> 4 <br> 4 <br> 4 <br> 4 |
-| 6 | AIT126 <br> CS306 <br> CS307 <br> ELE01 <br> ELE02 | Lập trình song song <br> Thị giác máy tính <br> Phân tích dữ liệu lớn <br> Học phần tự chọn chuyên ngành 1 <br> Học phần tự chọn chuyên ngành 2 | 3 <br> 4 <br> 4 <br> 1 <br> 2 |
+| 6 | AIT126 <br> CS306 <br> CS307 <br> ELE01 <br> ELE02 | Lập trình song song <br> Thị giác máy tính <br> Phân tích dữ liệu lớn <br> Học phần tự chọn chuyên ngành 1 <br> Học phần tự chọn chuyên ngành 2 | 3 <br> 4 <br> 4 <br> 4 <br> 4 |
 
 ### Năm tư
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 7 | CS401 <br> CS402 <br> ELE03 <br> ELE04 <br> ELE05|Thực tập tốt nghiệp <br> Chuyên đề công nghệ mới<br> Học phần tự chọn chuyên ngành 3 <br> Học phần tự chọn chuyên ngành 4 <br> Học phần tự chọn chuyên ngành 5 | 4 <br> 3 <br> 3 <br> 4 <br> 5 |
+| 7 | CS401 <br> CS402 <br> ELE03 <br> ELE04 <br> ELE05|Thực tập tốt nghiệp <br> Chuyên đề công nghệ mới<br> Học phần tự chọn chuyên ngành 3 <br> Học phần tự chọn chuyên ngành 4 <br> Học phần tự chọn chuyên ngành 5 | 4 <br> 3 <br> 4 <br> 4 <br> 4 |
 | 8 | COS4012 <br> ELE06 <br> CS403 | Đồ án tốt nghiệp Khoa học máy tính <br> Học phần tự chọn chuyên ngành nâng cao <br> Chuyên đề phát triển ứng dụng thực tế| 9 <br> 5 <br> 4 |
 
 **Tổng cộng: 150 tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
@@ -50,7 +50,7 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 ***MÔn tự chọn*** 
 Học máy & Khai phá dữ liệu (CS302), Học sâu & Xử lý ngôn ngữ tự nhiên (CS304), đây là 2 môn tự chọn mà em chọn vì thật sự nó phục vụ rất cụ thể vè trực tiếp cho việc trở thành 1 kỹ sư nghiên cứu và phát  của em. Nó cung cấp nền tảng thuật toán cốt lõi để trích xuất tri thức từ khối lượng dữ liệu thô, giúp em hiểu rõ bản chất toán học của các mô hình học máy. Ngoài ra nó còn đưa em đi sâu vào kiến trúc mạng nơ-ron nhân tạo và cách máy tính phân tích, thấu hiểu ngôn ngữ con người
 
-## Hai chỗ AI nói sai
+## Các chỗ AI nói sai
 
 **Chỗ thứ nhất**
 
