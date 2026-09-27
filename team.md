@@ -4,9 +4,6 @@ title: Cẩm nang làm việc nhóm
 
 # Cẩm nang làm việc nhóm
 
-> **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
-> nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
-
 **Nhóm:** … · **Thành viên:** …
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
@@ -55,11 +52,11 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 
 | Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / thất bại |
 |---|---|---|---|---|
-| … | … | … | … | … |
-| … | … | … | … | … |
-| … | … | … | … | … |
+| Chia nhỏ bài tập thành các phần độc lập | cả nhóm | xuyên suốt quá trình làm bài tập nhóm | Các thành viên chủ động hoàn thành phần việc cá nhân mà không phải đợi chờ nhau. | -Thành công: Đảm bảo đúng tiến độ từng phần. <br> -Thất bại: Khâu ráp bài cuối cùng văn phong bị lủng củng, tốn thêm 1 ngày để chỉnh sửa. |
+| Chia task theo mô hình "Chạy tiếp sức" (Relay Work) Thay vì làm chung, chia theo luồng: Người A tìm tài liệu --> ném cho B viết nháp --> C thiết kế slide --> D thuyết trình. | Cả nhóm | Xuyên suốt dự án | Tiến độ chạy cuốn chiếu. Người sau chỉ cần đợi người trước hoàn thành để nhận file làm tiếp, ai rảnh lúc nào làm lúc đó. | - Thành công: Tối ưu hóa điểm mạnh của từng người, triệt tiêu hoàn toàn nhu cầu phải làm việc cùng một lúc. <br> - Thất bại: Nếu một mắt xích (ví dụ người A) nộp trễ hoặc làm ẩu, toàn bộ dây chuyền phía sau sẽ bị "cháy" deadline. |
+| Tạo áp lực làm bài | cả nhóm | xuyên suốt dự án | Ép tập thể phải gồng lên mà làm bài làm | -Thành công: thật sự rất hiệu quả và mọi người đều hoàn thành gần như rất tốt <br> - Thất bại: dễ gây áp lực và có phần hơi 'toxic team' |
 
-*Người viết phần này: …*
+*Người viết phần này: Phạm Hữu Đức*
 
 ### 5. Cẩm nang cho người sau
 
