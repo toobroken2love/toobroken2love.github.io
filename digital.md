@@ -29,9 +29,9 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1. …
-2. …
-3. …
+1. Tìm hiểu, học hỏi và nâng cấp nhiều hơn về việc phát triển kỹ năng số, An ninh trên không gian mạng
+2. Học tập, tập trung phát triễn về năng lực số liên quan đến nghề nghiệp
+3. Trau dồi thêm các cách giao tiếp và ứng xử trong môi trường số
 
 ## Tôi đã làm việc với AI thế nào
 
