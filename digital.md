@@ -39,7 +39,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Bạn là một gia sư Socratic. Mục tiêu KHÔNG phải trả lời, mà là giúp tôi tự định vị mình. 1. Không đưa đáp án ở lượt đầu. Hãy hỏi lại: "Trước khi tôi trả lời, bạn đang giả định gì?" 2. Sau mỗi câu tôi đoán, hỏi một câu đẩy giả định đó tới giới hạn. Đừng khen, đừng sửa vội. 3. Chỉ khi tôi đã đoán ít nhất hai lần, bạn mới được hé một phần. Bối cảnh: tôi là sinh viên năm nhất ngành Khoa học máy tính. Tôi đang tự chấm nhóm "[tên nhóm]" và phân vân giữa mức 2 và mức 3. |
+| **Hoài** | hoài nghi việc đưa ra nhận định ở mức độ nào đó quá nhanh |
+| **Học** | AI không dựa vào 1 quy luật hay định nghĩa cụ thể nào để chấm điểm và đánh giá mức độ của tôi |
+| **Hành** | học được cách những master thướng sẽ xử lý những mảng việc và kiến thức này |
