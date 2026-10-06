@@ -23,9 +23,9 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | 2 | Năng lực thông tin và dữ liệu | dùng được | em có các thao tác ở mức ổn và có thể nâng cao dần về sau |
 | 3 | Giao tiếp và hợp tác trong môi trường số | đang học | em biết các quy tắc và luật lệ ứng xử và giao tiếp trên các không gian và mô trường số |
 | 4 | Sáng tạo nội dung số | đang học | có sự sáng tạo ở mức cơ bản |
-| 5 | An ninh và an toàn trên không gian mạng | chưa có | … |
-| 6 | Học tập và phát triển kỹ năng số | đang học | … |
-| 7 | Năng lực số liên quan đến nghề nghiệp | chưa có | … |
+| 5 | An ninh và an toàn trên không gian mạng | chưa có |  |
+| 6 | Học tập và phát triển kỹ năng số | đang học |  |
+| 7 | Năng lực số liên quan đến nghề nghiệp | chưa có |  |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
