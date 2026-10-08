@@ -19,12 +19,12 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
-| 1 | Vận hành thiết bị và phần mềm | dùng được | em dùng được các tính năng cơ bản của app, đôi khi có một vài tính năng nâng cao em cũng sử dụng được do em học được hoặc vô tình mày mò ra để vì mục đích cá nhân và thường sẽ tốn khá nhiều thời gian trong việc tự mày mò |
-| 2 | Năng lực thông tin và dữ liệu | dùng được | em có các thao tác ở mức ổn và có thể nâng cao dần về sau |
-| 3 | Giao tiếp và hợp tác trong môi trường số | đang học | em biết các quy tắc và luật lệ ứng xử và giao tiếp trên các không gian và mô trường số |
-| 4 | Sáng tạo nội dung số | đang học | có sự sáng tạo ở mức cơ bản |
+| 1 | Vận hành thiết bị và phần mềm | dùng được | Có khả năng sử dụng thành thạo các tính năng cơ bản của các ứng dụng và phần mềm thông dụng. Có ý thức tự học hỏi, tìm tòi và vận dụng được một số tính năng nâng cao để phục vụ công việc cá nhân, dù vẫn đang rèn luyện để tối ưu hóa thời gian thao tác. |
+| 2 | Năng lực thông tin và dữ liệu | dùng được | Thực hiện ổn định các thao tác tìm kiếm, thu thập và xử lý thông tin, dữ liệu ở mức độ cơ bản. Đã có nền tảng vững vàng và định hướng tiếp tục trau dồi để nâng cao hiệu suất làm việc với dữ liệu trong tương lai. |
+| 3 | Giao tiếp và hợp tác trong môi trường số | đang học |Nhận thức rõ và tuân thủ các quy định, chuẩn mực đạo đức cũng như văn hóa ứng xử khi giao tiếp trên nền tảng số. Đang tiếp tục rèn luyện kỹ năng tương tác và phối hợp hiệu quả trong môi trường trực tuyến. |
+| 4 | Sáng tạo nội dung số | đang học | Nắm vững tư duy cơ bản và có khả năng thiết kế, tạo lập các nội dung số ở mức độ đơn giản. Đang trong quá trình học hỏi thêm công cụ và phương pháp mới để đa dạng hóa sản phẩm sáng tạo. |
 | 5 | An ninh và an toàn trên không gian mạng | chưa có |  |
-| 6 | Học tập và phát triển kỹ năng số | đang học |  |
+| 6 | Học tập và phát triển kỹ năng số | đang học | Có tinh thần cầu thị, chủ động tìm hiểu các kiến thức công nghệ mới và đang từng bước xây dựng thói quen tự học để phát triển, hoàn thiện các kỹ năng số của bản thân. |
 | 7 | Năng lực số liên quan đến nghề nghiệp | chưa có |  |
 
 ## Ba việc tôi sẽ sửa trong tháng này
