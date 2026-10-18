@@ -26,6 +26,7 @@ giọng của nó không đổi dù đúng hay sai.
 4. Không học cách giỏi hơn AI, học cách đứng trên AI
 5. Đối với tất cả các câu hỏi mang tính chất là một câu hỏi mở, phải thật sự tỉnh táo và hỏi nói đang giả định dựa trên diều gì , môi trường nào để tránh mắc phải ảo giác loại 2 
 Cụ thể tới mức tháng sau đọc lại vẫn làm theo được.
+
 **Quy tắc tôi thấy khó giữ nhất là số 4**, vì đến thời điểm hiện tại thì để có thể đứng trên AI không thật sự chỉ cần kiến thức và tư duy nũa rồi, chúng ta phải thật sự cực kì tỉnh táo và mưu mẹo hơn dể có thể đứng trên nó được vì bây giờ phải thừa nhận rằng thế giới giỏi đến mức kể cả những con AI mới tạo ra cũng có thể đủ sức thay thế công việc của một người bình thường.
 
 |  | Điểm | Lý Do |
