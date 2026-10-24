@@ -10,10 +10,10 @@ title: Hồ sơ nhập ngành
 
 Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
 
-- … việc đã làm số 1, kèm một con số → [career.md](career.md)
-- … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
-- … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
-
+- 3 tin tuyển dụng, 2 chỗ bắt được AI → [career.md](career.md)
+- Bảng lộ tình lớn 8 học kỳ → [roadmap.md](roadmap.md)
+- 5 câu hỏi, 5 quy tắc sử dụng AI → [ai-audit.md](ai-audit.md)
+  
 phamhduc081208@gmail. · <https://toobroken2love.github.io>
 
 <!-- ================= hết phần tóm tắt ================= -->
