@@ -32,6 +32,6 @@ Tôi sẽ viết lại trang Soi một công cụ AI, theo cách nghiêm túc v�
 
 ## Đoạn tự giới thiệu chín mươi giây
 
-Đường dẫn: …
+Đường dẫn: https://youtu.be/03RtUrPyB9o?si=4iwaghRDPp2hol4O
 
 Không cần đẹp, không cần phông nền. Chỉ cần giọng tôi nói về thứ tôi đã làm.
