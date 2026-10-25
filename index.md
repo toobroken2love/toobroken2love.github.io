@@ -11,7 +11,7 @@ title: Hồ sơ nhập ngành
 Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
 
 - 3 tin tuyển dụng, 2 chỗ bắt được AI → [career.md](career.md)
-- Bảng lộ tình lớn 8 học kỳ → [roadmap.md](roadmap.md)
+- Bảng lộ trình lớn 8 học kỳ → [roadmap.md](roadmap.md)
 - 5 câu hỏi, 5 quy tắc sử dụng AI → [ai-audit.md](ai-audit.md)
   
 phamhduc081208@gmail. · <https://toobroken2love.github.io>
